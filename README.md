@@ -26,7 +26,7 @@ Add to readme list:
 	🔮 Edessa Ai
 		</a>
 		<a href="https://x.com/EdessaAI" target="_blank">
-			<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
+			<img src="https://img.shields.io/twitter/follow/Edessa.svg?logo=twitter">
 		</a>
 	</p>
 </h1>
