@@ -30,10 +30,8 @@ Add to readme list:
 		</a>
 	</p>
 </h1>
-<h3 align="center">
-  Add <a href="https://e2b.dev/docs?ref=awesome-sdks">Code Interpreter</a> to your AI App
-</h3>
 
+  
 
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
