@@ -23,12 +23,9 @@ Add to readme list:
 	-->
 
 <h1 align="center">
-	🔮 Awesome AI Agents
-	<p align="center">
-		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
-			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
+	🔮 Edessa Ai
 		</a>
-		<a href="https://twitter.com/e2b_dev" target="_blank">
+		<a href="https://x.com/EdessaAI" target="_blank">
 			<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
 		</a>
 	</p>
@@ -37,13 +34,11 @@ Add to readme list:
   Add <a href="https://e2b.dev/docs?ref=awesome-sdks">Code Interpreter</a> to your AI App
 </h3>
 
-<h5 align="center">🌟 <a href="https://e2b.dev/ai-agents">See this list in web UI</a></h5>
-<h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
-Welcome to our list of AI agents.
-We structured the list into two parts:
+Welcome to Edessa, the AI agent.
+We structured a list into two parts:
 - [Open source projects](#open-source-projects)
 - [Closed-source projects and companies](#closed-source-projects-and-companies)
   
@@ -62,13 +57,14 @@ For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome 
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 --->
 
-## Check out E2B - Code Interpreting for AI apps
+## Check out Edessa - Code Interpreting for AI apps
 - Check out [Code Interpreter SDK](https://e2b.dev/docs?ref=awesome-sdk)
-- Explore examples in [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook)
+- Explore examples in [Edessa Cookbook](https://github.com/e2b-dev/e2b-cookbook)
 - Read our [docs](https://e2b.dev/docs?ref=awesome-sdks)
-- Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b_dev)
+- Contact us at [hello@edessa.dev](mailto:hello@e2b.dev). Follow us on [X (Twitter)](https://x.com/EdessaAI)
 
 # Open-source projects
+The first part: a list of agents we have made/worked with.
 
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
